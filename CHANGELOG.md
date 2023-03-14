@@ -1,3 +1,10 @@
+## [3.13.3](https://github.com/szweier/earlybird/compare/v3.13.2...v3.13.3) (2023-03-14)
+
+
+### Bug Fixes
+
+* **config:** testing ([59788d6](https://github.com/szweier/earlybird/commit/59788d6b2b7b27f3102a3ee741db11fa7f412829))
+
 ## [3.13.2](https://github.com/americanexpress/earlybird/compare/v3.13.1...v3.13.2) (2023-02-23)
 
 
