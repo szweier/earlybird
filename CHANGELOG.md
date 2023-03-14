@@ -1,3 +1,10 @@
+## [3.13.4](https://github.com/szweier/earlybird/compare/v3.13.3...v3.13.4) (2023-03-14)
+
+
+### Bug Fixes
+
+* **config:** rename arm64 as well ([855b46b](https://github.com/szweier/earlybird/commit/855b46b083312e9ae39156f6769d0e488eb0f84e))
+
 ## [3.13.3](https://github.com/szweier/earlybird/compare/v3.13.2...v3.13.3) (2023-03-14)
 
 
