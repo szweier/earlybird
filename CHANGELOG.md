@@ -1,3 +1,10 @@
+## [3.13.6](https://github.com/szweier/earlybird/compare/v3.13.5...v3.13.6) (2023-03-14)
+
+
+### Bug Fixes
+
+* **config:** add one more asset ([9577308](https://github.com/szweier/earlybird/commit/9577308f0ca4138e78128ee436dbeba029da1fd4))
+
 ## [3.13.5](https://github.com/szweier/earlybird/compare/v3.13.4...v3.13.5) (2023-03-14)
 
 
